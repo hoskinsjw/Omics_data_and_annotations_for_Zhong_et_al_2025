@@ -1,0 +1,16 @@
+# ICGC Data (Controlled access thru ICGC ARGO)
+
+This folder contains citation metadata and links to data access instructions for the ICGC WGS data originally published in Bailey P et al. "Genomic analyses identify molecular subtypes of pancreatic cancer" Nature (2016), but also used in our multi-omics study Zhong et al., "Large-scale multi-omic analysis identifies noncoding somatic driver mutations and nominates ZFP36L2 as a driver gene for pancreatic ductal adenocarcinoma" (In revision at Gut).
+
+- **Repository**: ICGC ARGO data portal
+- **Access instructions**: [(https://docs.icgc-argo.org/docs/data-access/icgc-25k-data)]
+- **Data Type**: WGS FASTQ files
+- **Samples**: PDAC tumor samples
+
+## Citation
+
+> Bailey P et al. "Genomic analyses identify molecular subtypes of pancreatic cancer" Nature (2016).
+
+> Zhong et al., "Large-scale multi-omic analysis identifies noncoding somatic driver mutations and nominates ZFP36L2 as a driver gene for pancreatic ductal adenocarcinoma" (In revision at Gut).
+
+> Dataset DOI: [TBD after Zenodo release]
