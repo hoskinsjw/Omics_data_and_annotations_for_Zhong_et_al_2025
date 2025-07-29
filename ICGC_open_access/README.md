@@ -7,7 +7,7 @@ This folder contains citation metadata and links to data access instructions for
 - **Data Type**: Mutation calls tsv files
 - **Samples**: PDAC tumor samples
 
-## Citation
+## Citations
 
 > Bailey P et al. "Genomic analyses identify molecular subtypes of pancreatic cancer" Nature (2016).
 
