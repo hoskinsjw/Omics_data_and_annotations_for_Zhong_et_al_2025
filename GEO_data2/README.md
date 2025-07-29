@@ -4,10 +4,10 @@ This folder contains citation metadata and accession information for the ATAC-se
 
 - **Repository**: NCBI Gene Expression Omnibus (GEO)
 - **BioProject**: [PRJNA1028582](https://www.ncbi.nlm.nih.gov/bioproject/1028582)
-- **Data Type**: Purified acinar and duct H3K27Ac HiChIP-seq FASTQ files
+- **Data Type**: H3K27Ac HiChIP-seq FASTQ files
 - **Samples**: FACS purified, normal pancreatic acinar and duct samples
 
-## Citation
+## Citations
 
 > Wang L et al., "Predictive Prioritization of Enhancers Associated with Pancreas Disease Risk.", bioRxiv, (2024)
 
