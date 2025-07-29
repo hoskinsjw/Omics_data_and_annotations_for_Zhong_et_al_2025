@@ -13,4 +13,4 @@ This folder contains citation metadata and accession information for the ATAC-se
 
 > Zhong et al., "Large-scale multi-omic analysis identifies noncoding somatic driver mutations and nominates ZFP36L2 as a driver gene for pancreatic ductal adenocarcinoma" (In revision at Gut).
 
-> Dataset DOI: [10.5281/zenodo.16423806](https://doi.org/10.5281/zenodo.16423806)
+> Dataset DOI: [<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/dda36ba6-d9e7-47fd-afb4-0f0885b1f5bb" />](https://doi.org/10.5281/zenodo.16423806)
