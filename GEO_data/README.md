@@ -7,7 +7,7 @@ This folder contains citation metadata and accession information for the ATAC-se
 - **Data Type**: Bulk ATAC-seq and ChIP-seq FASTQ files
 - **Samples**: FACS purified, normal pancreatic acinar and duct samples
 
-## Citation
+## Citations
 
 > Arda et al., "A chromatin basis for cell lineage and disease risk in the human pancreas." Cell Syst. (2018)
 
